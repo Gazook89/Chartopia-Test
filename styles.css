@@ -1,0 +1,19 @@
+body {
+
+    background: #444;
+    color: ghostwhite;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+
+}
+
+main > div {
+    width: 40%;
+    min-width: 200px;
+    border: 1px solid ghostwhite;
+    border-radius: 15px;
+    height: 50vh;
+}
